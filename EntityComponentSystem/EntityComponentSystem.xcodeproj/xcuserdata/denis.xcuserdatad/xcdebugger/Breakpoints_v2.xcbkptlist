@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EntityComponentSystem/main.cpp"
+            timestampString = "479943900.202282"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "TEST_CASE(&quot;World destroys entities&quot;, &quot;[world]&quot;)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "____C_A_T_C_H____T_E_S_T____37()"
+                  moduleName = "EntityComponentSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denis/Projects/Awege/EntityComponentSystem/EntityComponentSystem/main.cpp"
+                  timestampString = "479943426.060821"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1365">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "____C_A_T_C_H____T_E_S_T____37()"
+                  moduleName = "EntityComponentSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denis/Projects/Awege/EntityComponentSystem/EntityComponentSystem/main.cpp"
+                  timestampString = "479943426.061019"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1370">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
